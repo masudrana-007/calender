@@ -1,0 +1,40 @@
+.masud2{
+    background-color: darkgray;
+    color: #fff;
+
+}
+.masum{
+    color: red;
+    background-color:yellow;
+}
+
+td{
+    font-size: 20px;
+    padding: 10px 10px;
+}
+td:hover{
+    background-color: blue;
+    color: aqua;
+    transition: 1s;
+}
+.masud2 :hover{
+    background-color: darkviolet;
+    color: aqua;
+    transition: 1s;
+}
+.masum:hover{
+    background-color: blue;
+    color: red;
+    transition: 1s;
+}
+.masud h1{
+    color: red;
+    padding: 0;
+}
+.masud h2{
+    color: green;
+    padding: 2px;
+}
+body{
+    background-color: #f37eb0;
+}
